@@ -1,6 +1,8 @@
 .next
 node_modules
 .codex
+pics
+README.rar
 .env
 .env.local
 .env.*.local
